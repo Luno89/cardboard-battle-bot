@@ -1,0 +1,26 @@
+build/SDL_dummyaudio.lo: \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/audio/dummy/SDL_dummyaudio.c \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/audio/dummy/../../SDL_internal.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/audio/dummy/../../dynapi/SDL_dynapi.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/audio/dummy/../../dynapi/SDL_dynapi_overrides.h \
+ include/SDL_config.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_platform.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/begin_code.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/close_code.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_timer.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_stdinc.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_config.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_error.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_audio.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_endian.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_mutex.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_thread.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_atomic.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_platform.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_rwops.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/audio/dummy/../SDL_audio_c.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/audio/dummy/../../SDL_internal.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/audio/dummy/SDL_dummyaudio.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/audio/dummy/../SDL_sysaudio.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_mutex.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_thread.h

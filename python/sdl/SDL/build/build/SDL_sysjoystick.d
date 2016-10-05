@@ -1,0 +1,22 @@
+build/SDL_sysjoystick.lo: \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/SDL_sysjoystick.c \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/../../SDL_internal.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/../../dynapi/SDL_dynapi.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/../../dynapi/SDL_dynapi_overrides.h \
+ include/SDL_config.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_platform.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/begin_code.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/close_code.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_assert.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_config.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_joystick.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_stdinc.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_error.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_endian.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/../SDL_sysjoystick.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/../../SDL_internal.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/../SDL_joystick_c.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/../SDL_joystick_c.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/SDL_sysjoystick_c.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/../../core/linux/SDL_udev.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/joystick/linux/../../core/linux/../../SDL_internal.h

@@ -1,0 +1,20 @@
+build/SDL_haptic.lo: \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/haptic/SDL_haptic.c \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/haptic/../SDL_internal.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/haptic/../dynapi/SDL_dynapi.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/haptic/../dynapi/SDL_dynapi_overrides.h \
+ include/SDL_config.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_platform.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/begin_code.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/close_code.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/haptic/SDL_syshaptic.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_haptic.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_stdinc.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_config.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_error.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_joystick.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/haptic/SDL_haptic_c.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/haptic/../joystick/SDL_joystick_c.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/src/haptic/../joystick/../SDL_internal.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_joystick.h \
+ /home/luno/projects/cardboard-battle-bot/python/sdl/SDL/include/SDL_assert.h
