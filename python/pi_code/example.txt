@@ -1,0 +1,14 @@
+// How to run
+gunicorn cardboard_bot_app:api
+
+// Get status
+http localhost:8000/bot
+
+// Set state
+http POST localhost:8000/bot l_motor=23 r_motor=24
+
+
+//////////////
+// http -> httpie
+// pip install --upgrade httpie
+// pip install 
